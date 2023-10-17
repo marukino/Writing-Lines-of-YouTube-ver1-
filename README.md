@@ -1,4 +1,4 @@
-# youtube-script-writing-software
+
 youtubeの台本を書くソフト
 
 【このソフトについて】
